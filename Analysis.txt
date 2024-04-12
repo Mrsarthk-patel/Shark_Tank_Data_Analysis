@@ -1,0 +1,8 @@
+1. season vs Count of startups
+2. Industry wise startups or number of ideas per industry (Top 5 startups from industry)
+3. year wise trend - increase/decrease in number of startups from 1998-2023
+Age wise startups - SLICER
+
+4. Number of Startups that have accepted the offers
+5. Top 5 startups that have all shark deal
+6. Number of deals that individual sharks have done
